@@ -114,20 +114,20 @@
               <text value="&lt;&lt;"/>
             </properties>
           </component>
-          <component id="a8967" class="javax.swing.JButton" binding="neuButton" default-binding="true">
+          <component id="a8967" class="javax.swing.JButton" binding="anlegenButton">
             <constraints>
               <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Neu"/>
+              <text value="anlegen"/>
             </properties>
           </component>
-          <component id="bbd1b" class="javax.swing.JButton" binding="sichernButton" default-binding="true">
+          <component id="bbd1b" class="javax.swing.JButton" binding="aendernButton">
             <constraints>
               <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
-              <text value="Sichern"/>
+              <text value="ändern"/>
             </properties>
           </component>
           <component id="d6d26" class="javax.swing.JButton" binding="löschenButton" default-binding="true">
